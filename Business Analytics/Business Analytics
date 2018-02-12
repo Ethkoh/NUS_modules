@@ -1,0 +1,14 @@
+Scope of the Project:
+
+Describe a business case problem that involves decision-making under uncertainty. The case could
+be hypothetical but it should look realistic. Your description should be clear about the following:
+• What is the business problem in the case?
+• What are the decisions that have to be made and decision criteria?
+• Where are the sources of uncertainty? (That is, which are the random variables? For the
+problem to be non-trivial such that a simulation analysis is necessary, there should be at
+least two (2) random variables, which are not both normally distributed.)
+• What are your recommendations based on your analysis of the problem?
+Use EXCEL to perform a simulation analysis of the problem. The following must be included:
+• EXCEL simulation model (MUST be able to perform sensitivity analysis on the worksheet)
+• Analysis of results from EXCEL simulation
+• Presentation of results using a histogram or boxplot
